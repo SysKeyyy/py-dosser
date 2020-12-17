@@ -21,18 +21,28 @@ how to install windows
 
 3. pip install socket
 
+4. download zip file
+
+5. extract it and type cd <directory you saved the file to>
+
 to run script type python py_dosser.py
 ____________________________________________
 
 how to install linux/mac
 
-1. pip3 install pyfiglet
+1. sudo apt-get install git
+
+2. pip3 install pyfiglet
 
 (these down below should already installed but pls check!)
 
-2. pip3 install threading
+3. pip3 install threading
 
-3. pip3 install socket
+4. pip3 install socket
+
+5. git clone https://github.com/cudden24/py-dosser
+
+6. cd py-dosser or py dosser
 
 to run script type python3 py_dosser.py
 
