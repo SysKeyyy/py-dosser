@@ -1,7 +1,8 @@
 # py-dosser
 a dos tool created using python for both windows linux and mac.
 
-#BEFORE YOU START USING THIS TOOL , DONT USE IT FOR ILLEGAL PURPOSES I HAVE NO RESPONISBILITY FOT YOUR ACTIONS#
+#BEFORE YOU START USING THIS TOOL , DONT USE IT FOR ILLEGAL PURPOSES I HAVE NO RESPONISBILITY FOR YOUR ACTIONS#
+credits to neuralnine for the dos function.
 
 requirements
 
